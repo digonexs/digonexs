@@ -28,8 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="300px" align="right">
-
 <div align="left">
 
 - 💻 I graduated in Systems Analysis and Development from the [**University of Mogi das Cruzes**](https://www.umc.br/), Brazil.
