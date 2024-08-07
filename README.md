@@ -6,9 +6,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rodrigocavalcantedebarros/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"></a>
-  <a href = "mailto:rodrigocavalcantedebarros@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="25" alt="outlook logo"></a>
-  <a href="https://twitter.com/digonexs_dev" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"></a>
-</div>
 
 ###
 
