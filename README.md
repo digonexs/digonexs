@@ -26,11 +26,11 @@
 
 - 💻 I graduated in Systems Analysis and Development from the [**University of Mogi das Cruzes**](https://www.umc.br/), Brazil.
 
-- 🔭 I'm working as a Full Stack developer at [**Foursys**](https://foursys.com.br/).
+- 🔭 I'm working as a Full Stack developer at [**Hypeone**](https://hypeone.com.br/).
 
-- 💻 My stack: JavaScript, Angular, Bootstrap and Java.
+- 💻 My stack: Java and JavaScript.
 
-- 😊 Looking to collaborate on projects with React, Next or Node.
+- 😊 Looking to collaborate on projects with Java, Spring, React, Angular or Node.
 
 - 💙 I am a Full Stack developer, passionate about programming, studies, finance, sports, games, and entrepreneurship.
 
