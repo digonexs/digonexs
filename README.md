@@ -22,7 +22,7 @@
 
 Software Engineer with 3+ years of experience in Java Back-end, working in large-scale companies across the financial (Bradesco) and corporate (Comgás) sectors. Focused on enterprise systems with Java, Spring Boot, Microservices, and DDD.
 
-- 💼 Software Engineer at **Hypeone | NEOBPO** — Comgás project
+- 💼 Software Engineer at **Avanade** — Bradesco Bank project
 - 🎓 B.S. in Systems Analysis and Development — **University of Mogi das Cruzes (UMC)**
 - 📚 Post-Graduation in Architecture and Java Development — **FIAP** *(2026)*
 - 🏅 Microsoft Certified: **Azure Fundamentals (AZ-900)**
