@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=digonexs.digonexs" />
 </div>
 
-<h1 align="center">Rodrigo Barros</h1>
+<h1 align="center">Rodrigo Cavalcante de Barros</h1>
 
 <p align="center">Software Engineer · Java Back-end · São Paulo, Brazil</p>
 
